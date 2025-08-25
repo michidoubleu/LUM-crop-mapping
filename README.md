@@ -7,8 +7,10 @@ This workflow was presented at the EAAE 2025 conference.
 
 ## Repository Structure
 
-- `main_crop_dist.R` — main script for crop area allocation  
-- `plots_EAAE/` — scripts to reproduce figures for the EAAE 2025 poster  
+- `main_crop_dist.R` — main script for crop area allocation
+- `codes/` — script directory for necessary functions and routines, called by `main_crop_dist.R`
+- `codes/plots_EAAE/` — scripts to reproduce figures for the EAAE 2025 poster  
+- `poster/` — EAAE 2025 poster  
 - `output/` — example results (Austria)  
 - `input/` — currently not provided due to confidentiality of the project outputs 
 
